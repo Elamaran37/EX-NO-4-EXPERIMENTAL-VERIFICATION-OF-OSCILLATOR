@@ -1,13 +1,15 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
-4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
- ##AIM:
+
+# **DATE:A.25/10/2025,B.01/11/2025**
+ 
+##AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
- ##THEORY:
- ##RC PHASE SHIFT OSCILLATOR
-RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
+ ## THEORY:
+ 
+## **A.RC PHASE SHIFT OSCILLATOR:**
+ RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
 The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ---
 
@@ -56,22 +58,15 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 3.	Measure the output wave frequency and amplitude.
 ---
 ## TABULATION/OBSERVATION
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4d56733f-2127-4aef-b405-a9aee32eb82e" />
 
-
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/67d663c7-ba98-41f8-9b01-1a10a99ed53e" />
 
 ---
 ## THEORY
- ##WIEN BRIDGE
+## **B.WIEN BRIDGE**
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
 The frequency of oscillation is given by fo = 1/2πRC
 ## APPARATUS REQUIRED
@@ -123,18 +118,11 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d07c3cb8-64f9-4a00-b7eb-322f5cf57633" />
 
-
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0383bc33-5930-4dfa-817c-1d946e2faf26" />
 
 ---
 ## RESULT:
