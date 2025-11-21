@@ -2,7 +2,7 @@
 
 # **DATE:A.25/10/2025,B.01/11/2025**
  
-##AIM:
+## AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
