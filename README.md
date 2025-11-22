@@ -22,7 +22,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 | 3    | Op-amp                          | µA741         | 1        |
 |4    | Bread Board                     | —             | 1        |
 |5   | Resistors                       | 1K, 3.3K, 1.5K, 33K, 15K, 1MΩ | 2 |
-|6    | Capacitor                       | 0.1 µF        | 3        |
+|6    | Capacitor                       | 0.01 µF        | 3        |
 | 6   | Connecting wires and probes     | As required   | —        |
 | 
 
@@ -31,7 +31,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6c917dbf-5043-4a0f-804b-3e8cad680663" />
 
 
 
@@ -78,14 +78,14 @@ The frequency of oscillation is given by fo = 1/2πRC
 | 3    | Op-amp                          | µA741         | 1        |
 |4    | Bread Board                     | —             | 1        |
 |5   | Resistors                       | 1K, 3.3K, 1.5K, 33K, 15K, 1MΩ | 2 |
-|6    | Capacitor                       | 0.1 µF        | 3        |
+|6    | Capacitor                       | 0.01 µF        | 3        |
 | 7 | Connecting wires and probes     | As required   | —        |
 
 ---
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+![WhatsApp Image 2025-11-22 at 10 42 04](https://github.com/user-attachments/assets/c45d645d-49cb-468f-8c26-d5862e28e3ef)
 
 
 ---
@@ -101,10 +101,10 @@ Select frequency f0 = 1KHz
 fo = 1/2πRC
 A = 1+(Rf / R1) = 3.
 To find R & Rf.
-Therefore Rf = 2R1 & assume C = 0.1μf & find R from
+Therefore Rf = 2R1 & assume C = 0.01μf & find R from
 R=1/2πfC
-=1/2*3.14*1*103*0.1*10-6
-= 1.59KΩ.
+=1/2*3.14*1*103*0.01*10-6
+= 15.9KΩ.
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
