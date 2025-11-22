@@ -77,7 +77,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 |2   | Dual RPS                        | (0–30) V      | 1        |
 | 3    | Op-amp                          | µA741         | 1        |
 |4    | Bread Board                     | —             | 1        |
-|5   | Resistors                       | 1K, 3.3K, 1.5K, 33K, 15K, 1MΩ | 2 |
+|5   | Resistors                       | 1K, 3.3K, 15.9K, 33K, 15K, 1MΩ | 2 |
 |6    | Capacitor                       | 0.01 µF        | 3        |
 | 7 | Connecting wires and probes     | As required   | —        |
 
